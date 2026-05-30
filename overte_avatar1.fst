@@ -1,5 +1,5 @@
 name = MyAvatar
-scale = 0.25
+scale = 0.15
 filename = overte_avatar1.glb?v=1
 texdir = textures
 materialMap = {"mat::overte_avatar1": {"materialVersion": 1, "materials": [{"albedo": [1,1,1], "metallic": 1}]}}
